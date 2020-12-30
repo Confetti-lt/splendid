@@ -1,2 +1,1 @@
-# splendid
-just test
+# Folder of C++ learning
